@@ -83,11 +83,11 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
-![EXP1 de output](https://github.com/23007784/study-of-basic-gates/assets/139115570/164fea2e-a98e-4366-bee6-345a7cb312f7)
-
-**RTL**
 ![EXP1 de RTL](https://github.com/23007784/study-of-basic-gates/assets/139115570/db55050c-27fa-4f8f-940d-dfe8a9acaf75)
 
+**RTL**
+
+![EXP1 de output](https://github.com/23007784/study-of-basic-gates/assets/139115570/164fea2e-a98e-4366-bee6-345a7cb312f7)
 **Result:**
 Thus the truth table of logic gates in Quartus II using Verilog programming was verified successfully.
 
